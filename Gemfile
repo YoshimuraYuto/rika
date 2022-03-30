@@ -9,7 +9,7 @@ gem 'fog-aws'
 gem 'rails', '~> 5.2.3'
 gem 'dotenv-rails'
 gem 'pg', '>= 0.18', '< 2.0'
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 4.3'
 gem 'unicorn' # アプリケーションサーバのunicorn
 gem 'mini_racer', platforms: :ruby # デプロイ時に必要
 gem 'sass-rails', '~> 5.0'
